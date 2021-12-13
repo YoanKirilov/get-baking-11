@@ -1,0 +1,57 @@
+.Rolls h1{
+    margin-top: 20px;
+    margin-left: 16px;
+    color: #ff80c4;
+    font-size: x-large;
+    font-weight: bold;
+}
+.col button{
+    margin-top: 20px;
+    background-color: #ff80c4;
+    color: #000;
+    margin-left: 10px;
+}
+.col button:hover{
+    background-color: #ffff80;
+    color: #000;
+}
+.col p{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ff80c4;
+}
+.col t{
+    color: #ff80c4;
+    font-size:x-large;
+}
+.might{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85%;
+}
+.might h3{
+    color: #ffff80;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+.might p{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+.might a{
+    color:#ff80c4;
+}
+.might a:hover{
+    color:#ff80c4;
+}
+.col img{
+ width: 330px;
+ height: 260px;
+}
+.row {
+ padding-top: 10px;
+}

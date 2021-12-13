@@ -1,0 +1,37 @@
+.create h1{
+    color: #ff80c4;
+}
+.create{
+    max-width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.create label{
+    text-align:left;
+    display: block;
+    color: #ff80c4;
+    font-size:x-large;
+}
+.create input, .create textarea, .create select{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    background-color: #ff80c4;
+    display: block;
+    color: #ffff80;
+    font-size:large;
+}
+.create button {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    background-color: #ff80c4;
+    border-radius: 9px;
+    color: black;
+}
+.create button:hover {
+    color: #ffff80;
+    background-color: #ff80c4;
+  }

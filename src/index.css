@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&diplay=swap');
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.content {
+  max-width: 70%;
+  margin: auto;
+  padding: 10px;
+}
+.home h1{
+  margin-left: 16px;
+  color: #ff80c4;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.home a{
+  color:#ff80c4;
+}
+.home a:hover{
+  color:#ff80c4;
+}
+.home h2{
+  margin-left: 16px;
+  padding: 6px;
+  color: black;
+  font-size: large;
+}
+.home h3{
+  color: #ffff80;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+.intro h1{
+  margin-top: 20px;
+  margin-left: 16px;
+  color: #ff80c4;
+  font-size: x-large;
+  font-weight: bold;
+}
+.intro a{
+  color: black;
+  font-size: medium;
+}
+.seasonal a{
+  color:white;
+}
+.seasonal a:hover{
+  color:white;
+}
+.seasonal h1{
+  margin-top: 20px;
+  margin-left: 16px;
+  color: #ff80c4;
+  font-size: x-large;
+  font-weight: bold;
+}
+ .seasonal p{
+    color: #ff80c4;
+ }
+ .card:hover{
+  transform: scale(1.03);
+  box-shadow: 0px 0px 5px 0px;
+ }
+ .recipes a{
+  color:white;
+}
+.recipes a:hover{
+  color:white;
+}
+.recipes p{
+  color: #ff80c4;
+}
+.slide p{
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-align: flex;
+}
+.slide{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 85%;
+}

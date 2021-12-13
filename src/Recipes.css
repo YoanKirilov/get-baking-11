@@ -1,0 +1,55 @@
+.recent-recipes a{
+  color:#ff80c4;
+}
+.recent-recipes a:hover{
+  color:#ff80c4;
+}
+.recipes h1{
+  margin-top: 20px;
+  margin-left: 16px;
+  color: #ff80c4;
+  font-size: x-large;
+  font-weight: bold;
+}   
+.recipes h1{
+    margin-top: 10px;
+    margin-left: 16px;
+    color: #ff80c4;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+.recent-recipes h1{
+    margin-top: 20px;
+    margin-left: 16px;
+    color: #ff80c4;
+    font-size: x-large;
+    font-weight: bold;
+  }
+.recent-recipes h3{
+    color: #ffff80;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+  }
+.recent-recipes p{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: flex;
+  }
+.recent-recipes{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85%;
+}
+  .recipes a{
+    color:white;
+  }
+  .recipes a:hover{
+    color:white;
+  }
+  .recipes p{
+    color: #ff80c4;
+    text-align: flex;
+  }
